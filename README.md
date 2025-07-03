@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ranjith00005/Leet/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
