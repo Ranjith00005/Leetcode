@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ranjith00005/Leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Ranjith00005/Leet/tree/master/0189-rotate-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Ranjith00005/Leet/tree/master/2058-concatenation-of-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +102,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
