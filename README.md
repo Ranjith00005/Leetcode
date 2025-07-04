@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Ranjith00005/Leet/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
