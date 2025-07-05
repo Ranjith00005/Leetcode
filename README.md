@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Ranjith00005/Leet/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
