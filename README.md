@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ranjith00005/Leet/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ranjith00005/Leet/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ranjith00005/Leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
+| [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
