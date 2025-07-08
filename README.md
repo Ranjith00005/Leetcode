@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Ranjith00005/Leet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ranjith00005/Leet/tree/master/0204-count-primes) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -178,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjith00005/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
