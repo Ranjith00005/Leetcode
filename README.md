@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ranjith00005/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ranjith00005/Leet/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Ranjith00005/Leet/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Ranjith00005/Leet/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Ranjith00005/Leet/tree/master/1036-rotting-oranges) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Ranjith00005/Leet/tree/master/1036-rotting-oranges) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Ranjith00005/Leet/tree/master/0198-house-robber) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
@@ -226,5 +231,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Ranjith00005/Leet/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
