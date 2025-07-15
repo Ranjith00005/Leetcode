@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ranjith00005/Leet/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ranjith00005/Leet/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Ranjith00005/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ranjith00005/Leet/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjith00005/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ranjith00005/Leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/Ranjith00005/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjith00005/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Ranjith00005/Leet/tree/master/0219-contains-duplicate-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Linked List
