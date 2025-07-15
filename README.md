@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Ranjith00005/Leet/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Ranjith00005/Leet/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
+| [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/Ranjith00005/Leet/tree/master/3396-valid-word) |
 ## Bit Manipulation
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranjith00005/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
