@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Ranjith00005/Leet/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ranjith00005/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Ranjith00005/Leet/tree/master/0134-gas-station) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Ranjith00005/Leet/tree/master/0547-number-of-provinces) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ranjith00005/Leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Ranjith00005/Leet/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
