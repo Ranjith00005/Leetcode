@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ranjith00005/Leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ranjith00005/Leet/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/Ranjith00005/Leet/tree/master/2058-concatenation-of-array) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ranjith00005/Leet/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ranjith00005/Leet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Ranjith00005/Leet/tree/master/0162-find-peak-element) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ranjith00005/Leet/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Ranjith00005/Leet/tree/master/1036-rotting-oranges) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ranjith00005/Leet/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -92,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Ranjith00005/Leet/tree/master/1036-rotting-oranges) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Math
 |  |
 | ------- |
