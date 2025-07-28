@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ranjith00005/Leet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ranjith00005/Leet/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ranjith00005/Leet/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Ranjith00005/Leet/tree/master/0134-gas-station) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranjith00005/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Ranjith00005/Leet/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Ranjith00005/Leet/tree/master/0322-coin-change) |
