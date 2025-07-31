@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Ranjith00005/Leet/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Ranjith00005/Leet/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ranjith00005/Leet/tree/master/0066-plus-one) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ranjith00005/Leet/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 ## Ordered Set
 |  |
