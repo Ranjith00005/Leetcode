@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ranjith00005/Leet/tree/master/0295-find-median-from-data-stream) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ranjith00005/Leet/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Ranjith00005/Leet/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ranjith00005/Leet/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ranjith00005/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ranjith00005/Leet/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ranjith00005/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
