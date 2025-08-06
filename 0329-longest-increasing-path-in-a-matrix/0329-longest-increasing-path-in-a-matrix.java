@@ -10,7 +10,7 @@ class Solution {
             return dp[row][col];
 
         int longest = 0;
-        for(int i=0; i<4; i++){ //check 4 neighnors
+        for(int i=0; i<4; i++){ 
             int nextR = offset[i][0] + row;
             int nextC = offset[i][1] + col;
 
@@ -37,8 +37,8 @@ class Solution {
             for(int col=0; col < C; col++){
                 if(dp[row][col] == 0){
                     path = dfs(matrix, dp, row, col, R, C);
-                    int dop = Math.max(path, dp[row][col]);
-                    longest = Math.max(dop, longest);
+                    //int dop = Math.max(path, dp[row][col]);
+                    longest = Math.max(path, longest);
                 }
             }
         }
