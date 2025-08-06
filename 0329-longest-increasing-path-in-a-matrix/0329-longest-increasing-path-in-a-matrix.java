@@ -1,48 +1,35 @@
 class Solution {
-    private static int[][] offset = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
-
-    private static boolean check(int i, int j, int R, int C){
-        return (i >= 0 && i < R && j >= 0 && j < C);
-    }
-
-    private static int dfs(int[][] matrix, int[][] dp, int row, int col, int R, int C){
-        if(dp[row][col] != 0)
-            return dp[row][col];
-
-        int longest = 0;
-        for(int i=0; i<4; i++){ 
-            int nextR = offset[i][0] + row;
-            int nextC = offset[i][1] + col;
-
-            if(!check(nextR, nextC, R, C))
-                continue;
-
-            if(matrix[nextR][nextC] > matrix[row][col]){
-                int adjPath = dfs(matrix, dp, nextR, nextC, R, C);
-                longest = Math.max(adjPath, longest);
-            }    
-        }    
-
-        dp[row][col] = longest + 1;
-        return dp[row][col];
-    }
-    public int longestIncreasingPath(int[][] matrix) {
-        int R = matrix.length;
-        int C = matrix[0].length;
-        int dp[][] = new int[R][C];
-
-        int path = 0, longest = 0;
-
-        for(int row=0; row<R; row++){
-            for(int col=0; col < C; col++){
-                if(dp[row][col] == 0){
-                    path = dfs(matrix, dp, row, col, R, C);
-                    //int dop = Math.max(path, dp[row][col]);
-                    longest = Math.max(path, longest);
-                }
+    
+    private static int dfs(int[][] matrix,int[][] dp,int r,int c,int row,int col){
+        if(dp[r][c]>0){
+            return dp[r][c];
+        }
+        int longest=0;
+        int[][] track=new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
+        for(int i=0;i<4;i++){
+            int adjrow=r+track[i][0];
+            int adjcol=c+track[i][1];
+            
+            if(adjrow>=0 && adjrow<row && adjcol>=0 && adjcol<col && matrix[adjrow][adjcol]>matrix[r][c]){
+                int adjpath=dfs(matrix,dp,adjrow,adjcol,row,col);
+                longest=Math.max(adjpath,longest);
             }
         }
-
+        dp[r][c]=longest+1;
+        return dp[r][c];
+    }
+    public int longestIncreasingPath(int[][] matrix) {
+        int row=matrix.length;
+        int col=matrix[0].length;
+        int dp[][]=new int[row][col];
+        int longest=-1;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                int path=dfs(matrix,dp,i,j,row,col);
+                longest=Math.max(path,longest);
+            }
+        }
         return longest;
     }
 }
+    
