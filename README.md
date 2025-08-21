@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranjith00005/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Ranjith00005/Leet/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ranjith00005/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ranjith00005/Leet/tree/master/0189-rotate-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranjith00005/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Ranjith00005/Leet/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ranjith00005/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
