@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Ranjith00005/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Ranjith00005/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Ranjith00005/Leet/tree/master/0322-coin-change) |
@@ -407,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranjith00005/Leet/tree/master/3790-fruits-into-baskets-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
