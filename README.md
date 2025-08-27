@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ranjith00005/Leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ranjith00005/Leet/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Ranjith00005/Leet/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ranjith00005/Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Ranjith00005/Leet/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ranjith00005/Leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ranjith00005/Leet/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranjith00005/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ranjith00005/Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ranjith00005/Leet/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ranjith00005/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ranjith00005/Leet/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ranjith00005/Leet/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
 ## Graph
