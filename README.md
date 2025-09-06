@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ranjith00005/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Ranjith00005/Leet/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
