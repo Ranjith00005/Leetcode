@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ranjith00005/Leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ranjith00005/Leet/tree/master/0342-power-of-four) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ranjith00005/Leet/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
