@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Ranjith00005/Leet/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0419-battleships-in-a-board](https://github.com/Ranjith00005/Leet/tree/master/0419-battleships-in-a-board) |
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Ranjith00005/Leet/tree/master/0485-max-consecutive-ones) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Ranjith00005/Leet/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Ranjith00005/Leet/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith00005/Leet/tree/master/1341-split-a-string-in-balanced-strings) |
