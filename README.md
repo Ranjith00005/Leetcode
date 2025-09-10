@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/Ranjith00005/Leet/tree/master/1036-rotting-oranges) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ranjith00005/Leet/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ranjith00005/Leet/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/Ranjith00005/Leet/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Ranjith00005/Leet/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ranjith00005/Leet/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1319-unique-number-of-occurrences](https://github.com/Ranjith00005/Leet/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Ranjith00005/Leet/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1392-find-the-difference-of-two-arrays) |
