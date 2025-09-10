@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ranjith00005/Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Ranjith00005/Leet/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ranjith00005/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ranjith00005/Leet/tree/master/0238-product-of-array-except-self) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ranjith00005/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ranjith00005/Leet/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Ranjith00005/Leet/tree/master/0695-max-area-of-island) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ranjith00005/Leet/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Ranjith00005/Leet/tree/master/0097-interleaving-string) |
+| [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Ranjith00005/Leet/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -450,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
