@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ranjith00005/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith00005/Leet/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ranjith00005/Leet/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Ranjith00005/Leet/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
