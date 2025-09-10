@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ranjith00005/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
 | [3321-type-of-triangle](https://github.com/Ranjith00005/Leet/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Ranjith00005/Leet/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/Ranjith00005/Leet/tree/master/3830-find-closest-person) |
 ## Simulation
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Ranjith00005/Leet/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/Ranjith00005/Leet/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranjith00005/Leet/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Ranjith00005/Leet/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
