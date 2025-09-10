@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/Ranjith00005/Leet/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ranjith00005/Leet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ranjith00005/Leet/tree/master/0419-battleships-in-a-board) |
+| [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Ranjith00005/Leet/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Ranjith00005/Leet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Ranjith00005/Leet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ranjith00005/Leet/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Ranjith00005/Leet/tree/master/0162-find-peak-element) |
+| [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranjith00005/Leet/tree/master/3790-fruits-into-baskets-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Ranjith00005/Leet/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
+| [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0908-middle-of-the-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ranjith00005/Leet/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
