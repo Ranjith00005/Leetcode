@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ranjith00005/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranjith00005/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Ranjith00005/Leet/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ranjith00005/Leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ranjith00005/Leet/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/Ranjith00005/Leet/tree/master/2058-concatenation-of-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Ranjith00005/Leet/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
