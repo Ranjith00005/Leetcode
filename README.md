@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Ranjith00005/Leet/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ranjith00005/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0908-middle-of-the-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0908-middle-of-the-linked-list) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/Ranjith00005/Leet/tree/master/0097-interleaving-string) |
 | [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ranjith00005/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ranjith00005/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
