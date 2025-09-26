@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/Ranjith00005/Leet/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Ranjith00005/Leet/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0747-min-cost-climbing-stairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Ranjith00005/Leet/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ranjith00005/Leet/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
+| [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranjith00005/Leet/tree/master/3790-fruits-into-baskets-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranjith00005/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
+| [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Ranjith00005/Leet/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/Ranjith00005/Leet/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Ranjith00005/Leet/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith00005/Leet/tree/master/1341-split-a-string-in-balanced-strings) |
