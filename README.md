@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Ranjith00005/Leet/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
+| [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/Ranjith00005/Leet/tree/master/0343-integer-break) |
 | [0523-continuous-subarray-sum](https://github.com/Ranjith00005/Leet/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/Ranjith00005/Leet/tree/master/0670-maximum-swap) |
+| [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Ranjith00005/Leet/tree/master/1236-n-th-tribonacci-number) |
@@ -553,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranjith00005/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
