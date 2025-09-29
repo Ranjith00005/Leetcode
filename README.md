@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/Ranjith00005/Leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ranjith00005/Leet/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Ranjith00005/Leet/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ranjith00005/Leet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ranjith00005/Leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0070-climbing-stairs) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ranjith00005/Leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ranjith00005/Leet/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Ranjith00005/Leet/tree/master/0097-interleaving-string) |
@@ -561,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ranjith00005/Leet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
