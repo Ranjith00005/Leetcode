@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ranjith00005/Leet/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ranjith00005/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ranjith00005/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ranjith00005/Leet/tree/master/3227-find-missing-and-repeated-values) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ranjith00005/Leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Ranjith00005/Leet/tree/master/1448-maximum-69-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ranjith00005/Leet/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ranjith00005/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ranjith00005/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
 | [2630-alternating-digit-sum](https://github.com/Ranjith00005/Leet/tree/master/2630-alternating-digit-sum) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Ranjith00005/Leet/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ranjith00005/Leet/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ranjith00005/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/Ranjith00005/Leet/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranjith00005/Leet/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -567,4 +570,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ranjith00005/Leet/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ranjith00005/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
