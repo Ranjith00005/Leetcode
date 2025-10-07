@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ranjith00005/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranjith00005/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ranjith00005/Leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/Ranjith00005/Leet/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ranjith00005/Leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranjith00005/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Ranjith00005/Leet/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Ranjith00005/Leet/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [2434-design-a-number-container-system](https://github.com/Ranjith00005/Leet/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith00005/Leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Ranjith00005/Leet/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranjith00005/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Ranjith00005/Leet/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
