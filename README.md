@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ranjith00005/Leet/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranjith00005/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ranjith00005/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ranjith00005/Leet/tree/master/3227-find-missing-and-repeated-values) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranjith00005/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3321-type-of-triangle](https://github.com/Ranjith00005/Leet/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
