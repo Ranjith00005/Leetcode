@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Ranjith00005/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3321-type-of-triangle](https://github.com/Ranjith00005/Leet/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Ranjith00005/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Ranjith00005/Leet/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ranjith00005/Leet/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1542-consecutive-characters](https://github.com/Ranjith00005/Leet/tree/master/1542-consecutive-characters) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Ranjith00005/Leet/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Ranjith00005/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/Ranjith00005/Leet/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Ranjith00005/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ranjith00005/Leet/tree/master/3242-count-elements-with-maximum-frequency) |
