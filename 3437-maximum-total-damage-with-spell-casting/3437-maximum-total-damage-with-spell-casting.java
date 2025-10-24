@@ -6,7 +6,7 @@ class Solution {
         for (int x : power) {
             occ.put((long)x, occ.getOrDefault((long)x, 0L) + 1);
         }
-
+ 
         List<Long> v = new ArrayList<>();
         List<Long> c = new ArrayList<>();
         for (Map.Entry<Long, Long> e : occ.entrySet()) {
