@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/Ranjith00005/Leet/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Ranjith00005/Leet/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ranjith00005/Leet/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranjith00005/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Ranjith00005/Leet/tree/master/3830-find-closest-person) |
 ## Simulation
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ranjith00005/Leet/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ranjith00005/Leet/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
