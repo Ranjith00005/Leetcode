@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/Ranjith00005/Leet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ranjith00005/Leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Ranjith00005/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ranjith00005/Leet/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ranjith00005/Leet/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ranjith00005/Leet/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Ranjith00005/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ranjith00005/Leet/tree/master/0130-surrounded-regions) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Ranjith00005/Leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ranjith00005/Leet/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ranjith00005/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Ranjith00005/Leet/tree/master/0097-interleaving-string) |
