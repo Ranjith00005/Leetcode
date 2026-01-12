@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ranjith00005/Leet/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ranjith00005/Leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranjith00005/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/Ranjith00005/Leet/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Ranjith00005/Leet/tree/master/3447-clear-digits) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ranjith00005/Leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranjith00005/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ranjith00005/Leet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ranjith00005/Leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
