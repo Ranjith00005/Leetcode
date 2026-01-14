@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Ranjith00005/Leet/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ranjith00005/Leet/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Ranjith00005/Leet/tree/master/3336-water-bottles-ii) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/Ranjith00005/Leet/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ranjith00005/Leet/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranjith00005/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
