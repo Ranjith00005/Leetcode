@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Ranjith00005/Leet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ranjith00005/Leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Ranjith00005/Leet/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ranjith00005/Leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ranjith00005/Leet/tree/master/0202-happy-number) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/Ranjith00005/Leet/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Ranjith00005/Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ranjith00005/Leet/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/Ranjith00005/Leet/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranjith00005/Leet/tree/master/0345-reverse-vowels-of-a-string) |
