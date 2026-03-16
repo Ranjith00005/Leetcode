@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranjith00005/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ranjith00005/Leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ranjith00005/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ranjith00005/Leet/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ranjith00005/Leet/tree/master/2448-count-number-of-bad-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranjith00005/Leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ranjith00005/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ranjith00005/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ranjith00005/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/Ranjith00005/Leet/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/Ranjith00005/Leet/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranjith00005/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ranjith00005/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranjith00005/Leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranjith00005/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
