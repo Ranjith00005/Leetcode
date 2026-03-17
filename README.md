@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ranjith00005/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Ranjith00005/Leet/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ranjith00005/Leet/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Ranjith00005/Leet/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ranjith00005/Leet/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Ranjith00005/Leet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ranjith00005/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ranjith00005/Leet/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Ranjith00005/Leet/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Ranjith00005/Leet/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
