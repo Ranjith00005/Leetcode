@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranjith00005/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ranjith00005/Leet/tree/master/0983-minimum-cost-for-tickets) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Ranjith00005/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Ranjith00005/Leet/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [2434-design-a-number-container-system](https://github.com/Ranjith00005/Leet/tree/master/2434-design-a-number-container-system) |
 ## Matrix
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/Ranjith00005/Leet/tree/master/0670-maximum-swap) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Ranjith00005/Leet/tree/master/1029-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith00005/Leet/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0747-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ranjith00005/Leet/tree/master/0983-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranjith00005/Leet/tree/master/1111-minimum-score-triangulation-of-polygon) |
