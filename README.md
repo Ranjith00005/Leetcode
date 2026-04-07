@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranjith00005/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ranjith00005/Leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ranjith00005/Leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/Ranjith00005/Leet/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ranjith00005/Leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
