@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Ranjith00005/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ranjith00005/Leet/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ranjith00005/Leet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ranjith00005/Leet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Ranjith00005/Leet/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ranjith00005/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ranjith00005/Leet/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ranjith00005/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/Ranjith00005/Leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ranjith00005/Leet/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ranjith00005/Leet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ranjith00005/Leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ranjith00005/Leet/tree/master/0169-majority-element) |
