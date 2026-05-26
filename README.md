@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranjith00005/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/Ranjith00005/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ranjith00005/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith00005/Leet/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ranjith00005/Leet/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Ranjith00005/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ranjith00005/Leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
