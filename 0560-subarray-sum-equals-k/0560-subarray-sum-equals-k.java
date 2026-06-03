@@ -9,7 +9,6 @@ class Solution {
             }
             if(h.get(sum-k)!=null){
                 co+=h.get(sum-k);
-               // h.replace(sum,h.get(sum-k)+1);
             }
             
             if(h.get(sum)!=null){
