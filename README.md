@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ranjith00005/Leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Ranjith00005/Leet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ranjith00005/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ranjith00005/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Ranjith00005/Leet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ranjith00005/Leet/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Ranjith00005/Leet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ranjith00005/Leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ranjith00005/Leet/tree/master/0169-majority-element) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ranjith00005/Leet/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Ranjith00005/Leet/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -712,11 +715,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ranjith00005/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ranjith00005/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Trie
 |  |
