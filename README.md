@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Ranjith00005/Leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Ranjith00005/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ranjith00005/Leet/tree/master/0200-number-of-islands) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ranjith00005/Leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ranjith00005/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ranjith00005/Leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ranjith00005/Leet/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ranjith00005/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -759,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ranjith00005/Leet/tree/master/0319-bulb-switcher) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ranjith00005/Leet/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
