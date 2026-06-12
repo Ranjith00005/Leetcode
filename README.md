@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0904-fruit-into-baskets](https://github.com/Ranjith00005/Leet/tree/master/0904-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranjith00005/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ranjith00005/Leet/tree/master/0983-minimum-cost-for-tickets) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/Ranjith00005/Leet/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranjith00005/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ranjith00005/Leet/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjith00005/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ranjith00005/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/Ranjith00005/Leet/tree/master/0904-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranjith00005/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
