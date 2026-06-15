@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Ranjith00005/Leet/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Ranjith00005/Leet/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Ranjith00005/Leet/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0747-min-cost-climbing-stairs) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Ranjith00005/Leet/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Ranjith00005/Leet/tree/master/1029-two-city-scheduling) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Ranjith00005/Leet/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Ranjith00005/Leet/tree/master/0670-maximum-swap) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/Ranjith00005/Leet/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Ranjith00005/Leet/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ranjith00005/Leet/tree/master/0747-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
