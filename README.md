@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Ranjith00005/Leet/tree/master/0904-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranjith00005/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1768-merge-strings-alternately) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Ranjith00005/Leet/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Ranjith00005/Leet/tree/master/1029-two-city-scheduling) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Ranjith00005/Leet/tree/master/0670-maximum-swap) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Ranjith00005/Leet/tree/master/1029-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Ranjith00005/Leet/tree/master/1341-split-a-string-in-balanced-strings) |
