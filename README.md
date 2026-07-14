@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ranjith00005/Leet/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Ranjith00005/Leet/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ranjith00005/Leet/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/Ranjith00005/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Ranjith00005/Leet/tree/master/1925-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ranjith00005/Leet/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ranjith00005/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/Ranjith00005/Leet/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranjith00005/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/Ranjith00005/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ranjith00005/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranjith00005/Leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ranjith00005/Leet/tree/master/3689-maximum-total-subarray-value-i) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1768-merge-strings-alternately) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ranjith00005/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Ranjith00005/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranjith00005/Leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
