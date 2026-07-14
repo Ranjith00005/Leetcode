@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/Ranjith00005/Leet/tree/master/0854-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/Ranjith00005/Leet/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Ranjith00005/Leet/tree/master/0904-fruit-into-baskets) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/Ranjith00005/Leet/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Ranjith00005/Leet/tree/master/0670-maximum-swap) |
+| [0860-lemonade-change](https://github.com/Ranjith00005/Leet/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Ranjith00005/Leet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
