@@ -3,12 +3,12 @@ class Solution {
         int a=n*(n+1);
         int b=n*n;
 
-        while(b!=0){
-            int temp=b;
-            b=a%b;
-            a=temp;
+        while(a!=0){
+            int temp=a;
+            a=b%a;
+            b=temp;
 
         }
-        return a;
+        return b;
     }
 }
