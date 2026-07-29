@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Ranjith00005/Leet/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ranjith00005/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Ranjith00005/Leet/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Ranjith00005/Leet/tree/master/0695-max-area-of-island) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/Ranjith00005/Leet/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Ranjith00005/Leet/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Ranjith00005/Leet/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ranjith00005/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Ranjith00005/Leet/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ranjith00005/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Ranjith00005/Leet/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ranjith00005/Leet/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
