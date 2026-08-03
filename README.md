@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/Ranjith00005/Leet/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ranjith00005/Leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ranjith00005/Leet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Ranjith00005/Leet/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ranjith00005/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ranjith00005/Leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ranjith00005/Leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0983-minimum-cost-for-tickets](https://github.com/Ranjith00005/Leet/tree/master/0983-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranjith00005/Leet/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/Ranjith00005/Leet/tree/master/1236-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranjith00005/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranjith00005/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -843,14 +846,17 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranjith00005/Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ranjith00005/Leet/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranjith00005/Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ranjith00005/Leet/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranjith00005/Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ranjith00005/Leet/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
