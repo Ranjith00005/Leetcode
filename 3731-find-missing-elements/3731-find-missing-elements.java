@@ -6,7 +6,7 @@ class Solution {
         int i=1;
         int val=nums[0];
         while(i<n){
-            val+=1;
+            val++;
             if(val < nums[i]){
                 list.add(val);
 
