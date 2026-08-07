@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Ranjith00005/Leet/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Ranjith00005/Leet/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Ranjith00005/Leet/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ranjith00005/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Ranjith00005/Leet/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ranjith00005/Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Ranjith00005/Leet/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/Ranjith00005/Leet/tree/master/0845-longest-mountain-in-array) |
 | [1925-count-square-sum-triples](https://github.com/Ranjith00005/Leet/tree/master/1925-count-square-sum-triples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ranjith00005/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
