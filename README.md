@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ranjith00005/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ranjith00005/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranjith00005/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Ranjith00005/Leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ranjith00005/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ranjith00005/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranjith00005/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ranjith00005/Leet/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranjith00005/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ranjith00005/Leet/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ranjith00005/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ranjith00005/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranjith00005/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ranjith00005/Leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/Ranjith00005/Leet/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Ranjith00005/Leet/tree/master/3447-clear-digits) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranjith00005/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranjith00005/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranjith00005/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ranjith00005/Leet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Queue
