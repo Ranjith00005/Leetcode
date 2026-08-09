@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-two-city-scheduling](https://github.com/Ranjith00005/Leet/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/Ranjith00005/Leet/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranjith00005/Leet/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Ranjith00005/Leet/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ranjith00005/Leet/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ranjith00005/Leet/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Ranjith00005/Leet/tree/master/1319-unique-number-of-occurrences) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0830-largest-triangle-area](https://github.com/Ranjith00005/Leet/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Ranjith00005/Leet/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Ranjith00005/Leet/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Ranjith00005/Leet/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ranjith00005/Leet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Ranjith00005/Leet/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ranjith00005/Leet/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ranjith00005/Leet/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Ranjith00005/Leet/tree/master/1140-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Ranjith00005/Leet/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ranjith00005/Leet/tree/master/1833-find-the-highest-altitude) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ranjith00005/Leet/tree/master/0983-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Ranjith00005/Leet/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Ranjith00005/Leet/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Ranjith00005/Leet/tree/master/1236-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranjith00005/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -858,17 +862,20 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranjith00005/Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ranjith00005/Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Ranjith00005/Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranjith00005/Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ranjith00005/Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Ranjith00005/Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ranjith00005/Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ranjith00005/Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Ranjith00005/Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
