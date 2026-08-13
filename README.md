@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ranjith00005/Leet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ranjith00005/Leet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjith00005/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Ranjith00005/Leet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ranjith00005/Leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ranjith00005/Leet/tree/master/0560-subarray-sum-equals-k) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Ranjith00005/Leet/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Ranjith00005/Leet/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ranjith00005/Leet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjith00005/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Ranjith00005/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranjith00005/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjith00005/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ranjith00005/Leet/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ranjith00005/Leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Ranjith00005/Leet/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ranjith00005/Leet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjith00005/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ranjith00005/Leet/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ranjith00005/Leet/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ranjith00005/Leet/tree/master/1227-number-of-equivalent-domino-pairs) |
