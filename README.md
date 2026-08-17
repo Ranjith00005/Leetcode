@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Ranjith00005/Leet/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Ranjith00005/Leet/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ranjith00005/Leet/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Ranjith00005/Leet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ranjith00005/Leet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ranjith00005/Leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ranjith00005/Leet/tree/master/0055-jump-game) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ranjith00005/Leet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ranjith00005/Leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ranjith00005/Leet/tree/master/0169-majority-element) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Ranjith00005/Leet/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ranjith00005/Leet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ranjith00005/Leet/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Ranjith00005/Leet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ranjith00005/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ranjith00005/Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Ranjith00005/Leet/tree/master/0141-linked-list-cycle) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Ranjith00005/Leet/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ranjith00005/Leet/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranjith00005/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Ranjith00005/Leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ranjith00005/Leet/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Ranjith00005/Leet/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ranjith00005/Leet/tree/master/0079-word-search) |
