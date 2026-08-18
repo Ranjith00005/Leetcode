@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Ranjith00005/Leet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ranjith00005/Leet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ranjith00005/Leet/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ranjith00005/Leet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ranjith00005/Leet/tree/master/0037-sudoku-solver) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ranjith00005/Leet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ranjith00005/Leet/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
