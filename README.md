@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ranjith00005/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Ranjith00005/Leet/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ranjith00005/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ranjith00005/Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ranjith00005/Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ranjith00005/Leet/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ranjith00005/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
