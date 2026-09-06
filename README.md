@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranjith00005/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranjith00005/Leet/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ranjith00005/Leet/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3904-smallest-stable-index-ii](https://github.com/Ranjith00005/Leet/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Ranjith00005/Leet/tree/master/1833-find-the-highest-altitude) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Ranjith00005/Leet/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ranjith00005/Leet/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3904-smallest-stable-index-ii](https://github.com/Ranjith00005/Leet/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
