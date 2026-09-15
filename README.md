@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ranjith00005/Leet/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Ranjith00005/Leet/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Ranjith00005/Leet/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Ranjith00005/Leet/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Ranjith00005/Leet/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Ranjith00005/Leet/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Ranjith00005/Leet/tree/master/0584-find-customer-referee) |
