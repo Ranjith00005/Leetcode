@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ranjith00005/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ranjith00005/Leet/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Ranjith00005/Leet/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ranjith00005/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ranjith00005/Leet/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3830-find-closest-person](https://github.com/Ranjith00005/Leet/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/Ranjith00005/Leet/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ranjith00005/Leet/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ranjith00005/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
