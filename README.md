@@ -969,4 +969,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ranjith00005/Leet/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ranjith00005/Leet/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Ranjith00005/Leet/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
