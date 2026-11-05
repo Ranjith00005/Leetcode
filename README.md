@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ranjith00005/Leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Ranjith00005/Leet/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ranjith00005/Leet/tree/master/1370-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Ranjith00005/Leet/tree/master/1406-stone-game-iii) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ranjith00005/Leet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/Ranjith00005/Leet/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Ranjith00005/Leet/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Ranjith00005/Leet/tree/master/0794-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Ranjith00005/Leet/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Ranjith00005/Leet/tree/master/1612-avoid-flood-in-the-city) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Ranjith00005/Leet/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/Ranjith00005/Leet/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Ranjith00005/Leet/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/Ranjith00005/Leet/tree/master/1894-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ranjith00005/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Ranjith00005/Leet/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Ranjith00005/Leet/tree/master/1029-two-city-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ranjith00005/Leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjith00005/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ranjith00005/Leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ranjith00005/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ranjith00005/Leet/tree/master/1777-determine-if-two-strings-are-close) |
