@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ranjith00005/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ranjith00005/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranjith00005/Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ranjith00005/Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranjith00005/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranjith00005/Leet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2470-removing-stars-from-a-string](https://github.com/Ranjith00005/Leet/tree/master/2470-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranjith00005/Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ranjith00005/Leet/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ranjith00005/Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ranjith00005/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ranjith00005/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranjith00005/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ranjith00005/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ranjith00005/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranjith00005/Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ranjith00005/Leet/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ranjith00005/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ranjith00005/Leet/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ranjith00005/Leet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
