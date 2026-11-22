@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/Ranjith00005/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ranjith00005/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ranjith00005/Leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ranjith00005/Leet/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ranjith00005/Leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ranjith00005/Leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ranjith00005/Leet/tree/master/2287-rearrange-characters-to-make-target-string) |
